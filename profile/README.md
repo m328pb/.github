@@ -18,4 +18,4 @@ This is a collection of libraries and programs for ATmega328p. The main motivati
 - HD44780; interface to LCD on HD44780
 
 # OTHER
-- strings; collection of usefull string manipulation functions
+- [strings](https://github.com/m328pb/strings); collection of usefull string manipulation functions
