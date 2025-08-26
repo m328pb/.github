@@ -8,9 +8,9 @@ This is a collection of libraries and programs for ATmega328p. The main motivati
 # IC protocols
 
 - ICinterface; common interface for protocols
-- I2C;
+- [I2C](https://github.com/m328pb/i2c);
 - SPI;
-- UART;
+- [UART](https://github.com/m328pb/uart);
 
 # DISPLAY
 
