@@ -14,8 +14,8 @@ This is a collection of libraries and programs for ATmega328p. The main motivati
 
 # DISPLAY
 
-- ssd1306; interface to OLEDs on ssd1306
-- HD44780; interface to LCD on HD44780
+- [ssd1306](https://github.com/m328pb/ssd1306) - interface to OLEDs on ssd1306
+- [HD44780](https://github.com/m328pb/hd44780) - interface to LCD on HD44780
 
 # OTHER
 - [strings](https://github.com/m328pb/strings); collection of usefull string manipulation functions
