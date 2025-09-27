@@ -22,4 +22,4 @@ This is a collection of libraries and programs for ATmega328p. The main motivati
 
 # OTHER
 - [strings](https://github.com/m328pb/strings) - collection of usefull string manipulation functions
-- [petitFatFS](https://github.com/petitfatfs) - fork of famous Patit Fat FS
+- [petitFatFS](https://github.com/m328pb/petitfatfs) - fork of famous Patit Fat FS
